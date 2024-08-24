@@ -1,0 +1,1 @@
+The final project is created using spring boot, spring JPA, Lombok, MYSQL and JDBC. All the serivce, repository and main class are properly initialized and connected to the mysql database to perform crud operations. The database name can be configured according to the database you use.
